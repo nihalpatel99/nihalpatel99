@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalpatel99&label=Profile%20views&color=0e75b6&style=flat" alt="nihalpatel99" /> </p>
 
 
-- 🔭 I’m currently working on [portfolio risk trader](portfolio-risk-trader)
+- 🔭 I’m currently working on [OHSA Workflow](https://github.com/nihalpatel99/OHSA-Workflow)
 
 - 🌱 I’m currently learning **Production RAG Systems, Autonomous Agents Workflow, AI Security Guardrails and Ethics**
 
