@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nihal-99-resume-portfolio.vercel.app/](https://nihal-99-resume-portfolio.vercel.app/)
 
-- 💬 Ask me about **RAG, MCP, Azure Foundry, Experimentation etc.**
+- 💬 Ask me about **RAG, MCP, Azure Foundry, Experimentation etc**
 
 - 📫 How to reach me **nihal1999patel@gmail.com**
 
