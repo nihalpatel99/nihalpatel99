@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihal</h1>
-<h3 align="center">Data Scientist from UAE</h3>
+<h3 align="center">Data Scientist / AI Engineer from UAE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihalpatel99&label=Profile%20views&color=0e75b6&style=flat" alt="nihalpatel99" /> </p>
 
